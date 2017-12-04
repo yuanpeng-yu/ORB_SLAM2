@@ -1,3 +1,8 @@
+# This is the fork of ORB_SLAM2.
+## The forked version is for self-learning purpose. I try to add following fuctions.
+### 1. Stream live recording function.
+### 2. Save Map.
+
 # ORB-SLAM2
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
 
