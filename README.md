@@ -1,4 +1,4 @@
-# This is the fork of ORB_SLAM2.
+# This is a fork of ORB_SLAM2.
 The forked version is for self-learning purpose. I try to add following fuctions. 
 1. Stream live recording function. 
 2. Save Map.
